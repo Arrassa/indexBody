@@ -4,7 +4,7 @@ public class BmiService {
         int indexBody = (int) (weight / (height * height));
 
 
-            return indexBody ;
-        }
+        return indexBody;
+    }
 
 }
